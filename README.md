@@ -11,4 +11,6 @@ Reference-based implementation on some of the String operations. A doubly linked
 
 
 #### Project 3 ADT Stack & Queue
-Reference-based implementation of a generic Stack and a generic Queue. 
+Reference-based implementation of an ADT generic Stack and Queue. 
+Stack through one external reference: the top
+Queue through two external references: the head & the tail
