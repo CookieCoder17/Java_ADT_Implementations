@@ -8,3 +8,7 @@ Array-based implementation on some of the ArrayList operations. An array was use
 
 #### Project 2 ADT LinkedString 
 Reference-based implementation on some of the String operations. A doubly linked list was used as the data structure.
+
+
+#### Project 3 ADT Stack & Queue
+Reference-based implementation of a generic Stack and a generic Queue. 
