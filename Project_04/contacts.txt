@@ -1,0 +1,25 @@
+first_name	last_name	street				city			state	zipcode	phone
+James		Butt		6649 N Blue Gum St		New Orleans		LA	70116	504-621-8927
+Josephine	Darakjy		4 B Blue Ridge Blvd		Brighton		MI	48116	810-292-9388
+Art		Venere		8 W Cerritos Ave #54		Bridgeport		NJ	8014	856-636-8749
+Lenna		Paprocki	639 Main St			Anchorage		AK	99501	907-385-4412
+Donette		Foller		34 Center St			Hamilton		OH	45011	513-570-1893
+Simona		Morasca		3 Mcauley Dr			Ashland			OH	44805	419-503-2484
+Mitsue		Tollner		7 Eads St			Chicago			IL	60632	773-573-6914
+Leota		Dilliard	7 W Jackson Blvd		San Jose		CA	95111	408-752-3500
+Sage		Wieser		5 Boston Ave #88		Sioux Falls		SD	57105	605-414-2147
+Kiley		Caldarera	25 E 75th St #69		Los Angeles		CA	90034	310-498-5651
+Graciela	Ruta		98 Connecticut Ave Nw		Chagrin Falls		OH	44023	440-780-8425
+Cammy		Albares		56 E Morehead St		Laredo			TX	78045	956-537-6195
+Mattie		Poquette	73 State Road 434 E		Phoenix			AZ	85013	602-277-4385
+Meaghan		Garufi		69734 E Carrillo St		Mc Minnville		TN	37110	931-313-9635
+Gladys		Rim		322 New Horizon Blvd		Milwaukee		WI	53207	414-661-9598
+Yuki		Whobrey		1 State Route 27		Taylor			MI	48180	313-288-7937
+Fletcher	Flosi		394 Manchester Blvd		Rockford		IL	61109	815-828-2147
+Bette		Nicka		6 S 33rd St			Aston			PA	19014	610-545-3615
+Veronika	Inouye		6 Greenleaf Ave			San Jose		CA	95111	408-540-1785
+Willard		Kolmetz		618 W Yakima Ave		Irving			TX	75062	972-303-9197
+Maryann		Royster		74 S Westgate St		Albany			NY	12204	518-966-7987
+Timothy		Mulqueen	44 W 4th St			Staten Island		NY	10309	718-332-6527
+Arlette		Honeywell	11279 Loytan St			Jacksonville		FL	32254	904-775-4480
+Dominque	Dickerson	69 Marquette Ave		Hayward			CA	94545	510-993-3758
