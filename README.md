@@ -14,3 +14,6 @@ Reference-based implementation on some of the String operations. A doubly linked
 Reference-based implementation of an ADT generic Stack and Queue. 
 Stack through one external reference: the top
 Queue through two external references: the head & the tail
+
+#### Project 4 ADT Binary Tree
+
