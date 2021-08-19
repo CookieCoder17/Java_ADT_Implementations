@@ -16,4 +16,6 @@ Stack through one external reference: the top
 Queue through two external references: the head & the tail
 
 #### Project 4 ADT Binary Tree
+Backend implementation of an Address Book. Binary Search Tree, built from scratch, was the used data strcture. Includes
+all the functionality of a BST such as all three tree traversals.  
 
